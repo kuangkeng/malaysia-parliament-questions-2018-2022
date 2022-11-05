@@ -15,7 +15,10 @@ Missing files
 
 Kamar Khas (Special Chamber) hansard documents for 4 days were missing from the Parliament website:
 
-16 December 2021 (the file on the website is the hansard for 6 December 2021 (KKDR-06122021.pdf).
-14 September 2021 (the file on the website is the hansard for Penyata Rasmi (DR-14092021.pdf) for the same day.
-17 October 2019 (broken link)
-15 November 2018 (broken link)
+- 16 December 2021 (the file on the website is the hansard for 6 December 2021 (KKDR-06122021.pdf).
+
+- 14 September 2021 (the file on the website is the hansard for Penyata Rasmi (DR-14092021.pdf) for the same day.
+
+- 17 October 2019 (broken link)
+
+- 15 November 2018 (broken link)
