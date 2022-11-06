@@ -22,3 +22,5 @@ Kamar Khas (Special Chamber) hansard documents for 4 days were missing from the 
 - 17 October 2019 (broken link)
 
 - 15 November 2018 (broken link)
+
+If you have any questions, corrections or feedback, please send them to kuangkeng@gmail.com.
