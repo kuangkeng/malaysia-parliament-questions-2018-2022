@@ -8,7 +8,7 @@ The questions were raised by the MPS in 5 different channels - non-verbal questi
 
 For the second dataset, environmental-related-questions-2018-2022.csv, it was a filtered dataset from the first dataset based on specific keywords linked to environmental topics. Please see the README.md in the subfolder of the dataset for more details.
 
-The scrapping was done by Kuek Ser Kuang Keng (Data-N) and further cleaning was done by Margo Prebenda (Greenpeace Malaysia).
+The scrapping was done by Kuek Ser Kuang Keng (Data-N) and further cleaning was done by Margo Prebenda (Greenpeace Southeast Asia).
 
 
 Missing files
